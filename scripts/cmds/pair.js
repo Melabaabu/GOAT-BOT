@@ -44,7 +44,7 @@ module.exports = {
       }
     }
     var id2 = ungvien[Math.floor(Math.random() * ungvien.length)];
-    var name2 = "Uff ksto ramro jodi 💋"; // Replace with function that retrieves the name of the user
+    var name2 = "🙂 𝐑𝐀𝐁 𝐍𝐄 𝐁𝐀𝐍𝐀 𝐃𝐈 𝐉𝐎𝐃𝐈 🙂"; // Replace with function that retrieves the name of the user
     var rd1 = Math.floor(Math.random() * 100) + 1;
     var cc = ["0", "-1", "99,99", "-99", "-100", "101", "0,01"];
     var rd2 = cc[Math.floor(Math.random() * cc.length)];
@@ -92,7 +92,7 @@ module.exports = {
     fs.removeSync(pathAvt2);
     return api.sendMessage(
       {
-        body: `🥰Successful pairing! ${name1}\💌Wish you two hundred years of happiness💕${name2}.\—The odds are ${tile}%`,
+        body: `💙 𝐌𝐀𝐃𝐄 𝐁𝐘 𝐍𝐈𝐋𝐀𝐌 𝐑𝐀𝐈 💛 ${name1}\🧡𝐖𝐈𝐒𝐒 𝐘𝐎𝐔 𝟏 𝐘𝐄𝐀𝐑 𝐇𝐀𝐏𝐏𝐘𝐍𝐄𝐒𝐒🧡${name2}.\—🌷 𝐘𝐎𝐔𝐑 𝐋𝐔𝐂𝐊 𝐈𝐍 👉${tile}%`,
         mentions: [
           {
             tag: `${name2}`,
