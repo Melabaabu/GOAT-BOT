@@ -18,8 +18,8 @@
   "16": "o",
   "17": "n",
   "facebookAccount": {
-    "email": "botking239@gmail",
-    "password": "porosh11@@11",
+    "email": "dairymilk2550@gmail.com",
+    "password": "DAIRYMILK2024",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -35,7 +35,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100071880593545",
+    "61566744287237",
     "1"
   ],
   "whiteListMode": {
@@ -43,8 +43,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐀𝐌𝐈𝐍𝐔𝐋-𝐁𝐎𝐓 ",
-  "prefix": "#",
+  "nickNameBot": "NILAM-RAI",
+  "prefix": "√",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
